@@ -27,14 +27,17 @@ The variance of the suspension coils must not be greater than 100 pounds per squ
 
 ### Lot 1
 p-value = 1 > 0.05
+
 <img width="516" alt="Screen Shot 2022-10-03 at 2 28 35 PM" src="https://user-images.githubusercontent.com/105958160/193701487-214b35f4-8826-4127-a7ea-bafaf871cfe8.png">
 
 ### Lot 2
 p-value = 0.6072 > 0.05
+
 <img width="513" alt="Screen Shot 2022-10-03 at 7 04 45 PM" src="https://user-images.githubusercontent.com/105958160/193701519-5a9197d4-955e-4b32-a126-8a863539aeac.png">
 
 ### Lot 3
 p-value = 0.04168 < 0.05
+
 <img width="520" alt="Screen Shot 2022-10-03 at 7 04 52 PM" src="https://user-images.githubusercontent.com/105958160/193701543-67cca072-d3ee-4032-bf12-0efc911f2d90.png">
 
 The PSI throughout Lot 3 is statistically distinct from the population mean, as shown by the data above, where Lot3's p-value is less than 0.05 percent. As a result, the null hypothesis can be rejected. However, because Lot 1 and Lot 2 both have p-values that are over the level of significance, we can not reject the null hypothesis and can conclude that there isn't any significant difference between Lot 1 and Lot 2. Instead, Lot 1 and Lot 2's PSIs are comparable to the population mean. 
